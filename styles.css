@@ -1,0 +1,12 @@
+body {
+    background-color:hsla(167,0%,0%,1);
+    background-image:
+    radial-gradient(at 100% 100%, hsla(239,79%,40%,0.4) 0px, transparent 50%),
+    radial-gradient(at 3% 10%, hsla(281,100%,50%,0.23) 0px, transparent 50%);
+    height: 100vh;
+    color: #fff;
+}
+
+h1 {
+    font-size: 70px;
+}
